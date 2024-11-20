@@ -19,7 +19,15 @@ This is a simple Flutter application implementing a Flutter API call basics by d
 
 ## Learnings
 During this project, I focused on practicing the following Flutter concepts:
-
+* **Folder Structure:** I learned how to structure project folders depending on project scale and the technologies, for this project I used `Folders By Type Pattern`.
+* **Widgets:** I implemented advanced widget layouts like `SafeArea`, `ExpansionTile`, `TextField`, `searchTextField`, `Visibility`, and more.
+* **Navigating Screens:** How to move from one screen to another via `Navigator.push`.
+* **State Management**: Used `StatefulWidget` to manage loading and success states effectively.  
+* **API Integration**: Fetched and displayed data from an external API using the `http` package.  
+- **JSON Parsing**: Parsed API responses into Dart objects using model classes.  
+- **Asynchronous Programming**: Applied `async/await` for seamless asynchronous operations.  
+* **Reusability**: Created reusable components to simplify the app's architecture. 
+* **UI:** How to style the UI in general.
 
 ## Installation:
 1. Clone this repository.
